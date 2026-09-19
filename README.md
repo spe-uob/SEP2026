@@ -32,7 +32,7 @@ On completion of this unit, students will be able to:
   <p></p>
 </td></tr></table>
 
-There is more information about how you will be assessed in [the assessments folder](https://github.com/spe-uob/SEP2024/tree/main/Assessments).
+There is more information about how you will be assessed in [the assessments folder](https://github.com/spe-uob/SEP2026/tree/master/Assessments).
 
 ## Key dates 
 Please check your timetable for the lectures, workshops and drop-ins.
@@ -66,13 +66,13 @@ There is more information about setting up your commit email address in [this Gi
 You can check if your set-up is correct by trying `git config --list` and if it's not set up properly, `user.email` will be either not there or empty. Which could be fixed with 
 `git config --global user.email "name@domain.example"`
 
-If you've tried this and your commits still aren't being logged correctly, ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A234d66b3097d4baeaf04abfdef596bc2%40thread.tacv2/Questions%20and%20Answers?groupId=843eb232-1d99-4994-9266-7ee9638bb6d7&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) and one of the TAs will help you.
+If you've tried this and your commits still aren't being logged correctly, ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A4f6015c1bfa94a1a8c6a0be8cf3b3769%40thread.tacv2/Questions%20and%20Answers?groupId=9aaa8b08-0816-4f59-ad22-1d75cf96e9e7&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) and one of the TAs will help you.
 
 #
 ## Get help
 
 If you have questions or problems that your mentor can't help with in the mentor meetings:
-* ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A234d66b3097d4baeaf04abfdef596bc2%40thread.tacv2/Questions%20and%20Answers?groupId=843eb232-1d99-4994-9266-7ee9638bb6d7&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)
+* ask in the [Teams Q&A channel](https://teams.microsoft.com/l/channel/19%3A4f6015c1bfa94a1a8c6a0be8cf3b3769%40thread.tacv2/Questions%20and%20Answers?groupId=9aaa8b08-0816-4f59-ad22-1d75cf96e9e7&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)
 * come to the Drop Ins on Fridays
 * or [contact Jialin Deng](mailto:jialin.deng@bristol.ac.uk).  
 
