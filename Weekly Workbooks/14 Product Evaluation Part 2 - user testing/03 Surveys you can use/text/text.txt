@@ -1,1 +1,0 @@
-There are a wide variety of approach available to help us in assessing the usability of a system. The video above provides an overview of some of the most common of these approaches. When you are viewing the video, think about which of the approaches are most relevant to the system that you are developing as part of your group project.
