@@ -286,7 +286,7 @@ However, if you are planning anything in your project that could create a risk t
 
 **Task**: Read the slides above and over the next few weeks, as a team, identify which ethics approval option is relevant to your project. You should then undertake the actions required to attain that approval. In the case where your project needs additional ethics approval, this can take some time, so you must act as early as possible.
 
-**You must complete the [ethics pre-approval form](https://forms.office.com/e/WSv1THqnUE) - please note, you should look at this now, so you understand what the answers to the questions will be**
+**You must complete the [ethics pre-approval form]([https://forms.office.com/e/WSv1THqnUE](https://forms.cloud.microsoft/e/Ax0pdgrjzq)) - please note, you should look at this now, so you understand what the answers to the questions will be**
 
 **PLEASE SUBMIT THE [ETHICS PRE-APPROVAL FORM]((https://forms.office.com/e/WSv1THqnUE) BY 13:00 FRIDAY 23 OCTOBER (WEEK 5) AT THE LATEST**.  
 If you are planning any kind of user interviewing or testing before then, you **MUST** submit the form before you start.
