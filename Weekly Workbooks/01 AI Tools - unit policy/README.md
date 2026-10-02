@@ -6,7 +6,7 @@ Software Engineering Project (SEP) is about learning the software engineering pr
 
 ### What do we mean by AI? 
 
-Anything built on large language models or generative AI: chat assistants (ChatGPT, Claude, Gemini), in--editor assistants and autocomplete (e.g., Copilot, Cursor), agentic coding tools that work in your terminal (e.g., Claude Code, Codex), and generative tools for images, diagrams or slides (Midjourney, DALL·E). Note that AI features are increasingly on by default in IDEs, browsers and GitHub, so check what your tools are doing. If you're unsure, please speak to us. 
+Anything built on large language models or generative AI: chat assistants (ChatGPT, Claude, Gemini), in-editor assistants and autocomplete (e.g., Copilot, Cursor), agentic coding tools that work in your terminal (e.g., Claude Code, Codex), and generative tools for images, diagrams or slides (Midjourney, DALL·E). Note that AI features are increasingly on by default in IDEs, browsers and GitHub, so check what your tools are doing. If you're unsure, please speak to us. 
 
 ### Are we allowed to use AI for coding? 
 
@@ -24,9 +24,9 @@ The use of AI is not taken into account during marking, in either direction. Wha
 
 To be explicit: if your team chooses to write everything manually and uses no AI coding tools at all, you will not be marked down for it -- even if this means your final product is smaller in scope or less polished than a team that made heavy use of AI. We mark your engineering process and your understanding, not the sophistication of what AI let you build. A team that manually delivers a smaller system with strong process, deep understanding and good teamwork can score as well as, or better than, a team that used AI heavily to deliver more but can't fully explain or defend it. 
 
-### Never input any of your clients code or business information 
+### Never input your client's code or business information 
 
-Remember that everything you enter into an AI tool leaves your control immediately and becomes visible to, and usable by, the service provider. If your project includes any proprietary code client code or  data, or information about how they work as a business, do not input this into LLMs -- anything you enter may be used to train models or in other ways you cannot control. 
+Remember that everything you enter into an AI tool leaves your control immediately and becomes visible to, and usable by, the service provider. If your project includes any proprietary or client code or data, or information about how they work as a business, do not input this into LLMs -- anything you enter may be used to train models or in other ways you cannot control. 
 
 Most client projects are covered by a contract that explicitly restricts sharing the client's code, data or business information with third parties -- an AI provider counts as a third party. Entering client material into an AI tool can put you in breach of that contract regardless of what the AI provider's own terms say, and this is a legal matter, not just good practice. Check what your contract or agreement with the client actually says, and if you're unsure what it covers, ask your client or your supervisor before using any AI tool on that part of the work. 
 
