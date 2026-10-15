@@ -84,7 +84,6 @@ Once the PRs are open, review each other's. For SEP-specific guidance on this se
 
 > [!TIP]
 > You are **not** expected to review a PR that is too big - reject it and ask for smaller PRs (a rough guide is no more than 50-200 lines changed per PR, and ~2 open PRs per person per week). Agree in advance **who** will review and **by when**, and say no if the turnaround is unrealistic. Before a deadline, freeze `dev` at least 24 hours in advance.
-> See [Pull Requests and Code Review in SEP](code_review.md) for the SEP-specific guidance.
 
 **Authors:** respond to every comment by **pushing more commits to the same branch**. Don't open a new PR.
 
