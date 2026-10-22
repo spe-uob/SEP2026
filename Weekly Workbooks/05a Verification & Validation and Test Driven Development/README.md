@@ -93,8 +93,6 @@ That’s still 12 x 8 x 11 (over 1000) combinations! And that's before we get in
 
 ## JUnit
 
-**TODO: Make this general, rather than specific to Java**
-
 If you're using Java, [JUnit](https://junit.org/) is a simple tool you can use. It provides a framework for writing and running your own test cases.
 
 JUnit uses “Assertions” to test the code, which allow us to state what should be the case, and if assertions do not hold, JUnit’s logging mechanisms report failures. There are various types of assertion available - the most commonly used are:
@@ -234,7 +232,7 @@ This requires additional test cases to be written and executed that verify compl
 > For example, we could write the following code to exercise the `search` request handlers provided by OpenStreetMap:
 
 ```java
-URL url = new URL("https://nominatim.openstreetmap.org/search?q=Bristol+grotto&format=json");
+URL url = URI.create("https://nominatim.openstreetmap.org/search?q=Bristol+grotto&format=json").toURL();
 HttpURLConnection connection =(HttpURLConnection)url.openConnection();
 connection.setRequestMethod("GET");
 connection.setRequestProperty("User-Agent", "SEP-teaching-test/1.0");
