@@ -2,6 +2,12 @@
 
 You have been introduced to the personal git workflow (i.e., git add, git commit, git push etc.). The goal of today is to go through a full collaborative cycle.
 
+## Lecture slides
+
+<a href='wk4-collab-with-github.pptx' target='_blank'> ![](../../resources/icons/slides.png) </a> 
+
+Click the icon to download the slides from the lecture.
+
 # Tasks
 ### Task 1: Ensure you have completed the setup tasks from Week 2
 

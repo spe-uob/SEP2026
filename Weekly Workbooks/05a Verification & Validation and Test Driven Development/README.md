@@ -2,6 +2,12 @@
 
 In this workbook we will shift our focus to consider the twin topics of Verification and Validation. There are numerous issues to explore in this area and many of them are key to the successful development of software systems.
 
+## Lecture slides
+
+<a href='wk5-tdd-vv-ci.pptx' target='_blank'> ![](../../resources/icons/slides.png) </a> 
+
+Click the icon to download the slides from the lecture.
+
 ---
 
 ## Verification and Validation

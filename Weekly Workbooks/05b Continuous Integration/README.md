@@ -2,6 +2,12 @@
 
 **Continuous Integration (CI)** is another key practice in many Agile methods (perhaps most notably [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)).
 
+## Lecture slides
+
+<a href='../05a%20Verification%20%26%20Validation%20and%20Test%20Driven%20Development/wk5-tdd-vv-ci.pptx' target='_blank'> ![](../../resources/icons/slides.png) </a> 
+
+Click the icon to download the slides from the lecture.
+
 Team working is all about process, which is the key to happier developers and better quality software.
 
 As a developer, you should be using [Test Driven Development](../05a%20Verification%20%26%20Validation%20and%20Test%20Driven%20Development/README.md), where you write tests, check your code passes and can tell it works.
