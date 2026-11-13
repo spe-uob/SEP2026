@@ -41,7 +41,7 @@ The MVP, Beta and Final Release dates are the **latest possible dates** - you sh
 
 | **Week** 	| **Date**               	| **Event**   	| 
 |------------	|--------------------------------	|----------------	|
-| 9	| 19 November 2026   	| MVP Release to client and Blackboard submission 	|   
+| 9	| 20 November 2026   	| MVP Release to client and Blackboard submission 	|   
 | 10	| 23-7 November 2026  	| Formative MVP vivas	|   
 | 15	| 1 February 2026  	| SEP Testing Day	|  
 | 16	|TBC	| Testathon |  
